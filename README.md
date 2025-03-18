@@ -30,3 +30,4 @@ Getting Started:
 - Customize the template to suit your restaurant's brand and style.
 - Deploy the template to your preferred hosting platform.
 
+http://127.0.0.1:3002/indx.html#contact
