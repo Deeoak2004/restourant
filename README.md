@@ -30,4 +30,11 @@ Getting Started:
 - Customize the template to suit your restaurant's brand and style.
 - Deploy the template to your preferred hosting platform.
 
-<!-- Failed to upload "restaurant web - Google Chrome 2025-03-18 18-59-05.mp4" -->
+soem images of our   Restaurant Website Template
+
+
+![Image](https://github.com/user-attachments/assets/b9b6c0b2-20f8-4601-830c-cb9e1b6028c4)
+
+![Image](https://github.com/user-attachments/assets/1eefdd43-1911-4f33-aa60-1eb514616f06)
+
+![Image](https://github.com/user-attachments/assets/3e610c44-7f6f-4e68-a8b3-097bc52ff2b3)
