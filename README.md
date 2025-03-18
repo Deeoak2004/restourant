@@ -30,7 +30,7 @@ Getting Started:
 - Customize the template to suit your restaurant's brand and style.
 - Deploy the template to your preferred hosting platform.
 
-soem images of our   Restaurant Website Template
+some images of our   Restaurant Website Template
 
 
 ![Image](https://github.com/user-attachments/assets/b9b6c0b2-20f8-4601-830c-cb9e1b6028c4)
